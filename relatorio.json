@@ -1,0 +1,538 @@
+{
+    "data_geracao": "2026-06-06 14:08:24",
+    "nome_carteira": "Carteira FIDC Teste",
+    "total_registros": 199,
+    "valor_total": 3349700.5,
+    "taxa_inadimplencia_pct": 12.06,
+    "total_titulos_vencidos": 4,
+    "valor_titulos_vencidos": 34600.0,
+    "resumo_por_status": {
+        "a_vencer": {
+            "quantidade": 139,
+            "valor_total": 2832400.0
+        },
+        "inadimplente": {
+            "quantidade": 41,
+            "valor_total": 404100.0
+        },
+        "liquidado": {
+            "quantidade": 8,
+            "valor_total": 42200.5
+        },
+        "vencido": {
+            "quantidade": 11,
+            "valor_total": 71000.0
+        }
+    },
+    "resumo_por_cedente": {
+        "Alfa Comercial Ltda": {
+            "quantidade": 2,
+            "valor_total": 23500.5,
+            "percentual_sobre_carteira": 0.7
+        },
+        "Beta Serviços S.A.": {
+            "quantidade": 2,
+            "valor_total": 25100.0,
+            "percentual_sobre_carteira": 0.75
+        },
+        "Gama Indústria ME": {
+            "quantidade": 2,
+            "valor_total": 12500.0,
+            "percentual_sobre_carteira": 0.37
+        },
+        "Delta Factoring": {
+            "quantidade": 2,
+            "valor_total": 52200.0,
+            "percentual_sobre_carteira": 1.56
+        },
+        "Épsilon Crédito": {
+            "quantidade": 2,
+            "valor_total": 24500.0,
+            "percentual_sobre_carteira": 0.73
+        },
+        "Zeta Comércio": {
+            "quantidade": 2,
+            "valor_total": 13700.0,
+            "percentual_sobre_carteira": 0.41
+        },
+        "Eta Logística": {
+            "quantidade": 2,
+            "valor_total": 42000.0,
+            "percentual_sobre_carteira": 1.25
+        },
+        "Theta Atacado": {
+            "quantidade": 2,
+            "valor_total": 33000.0,
+            "percentual_sobre_carteira": 0.99
+        },
+        "Iota Serviços": {
+            "quantidade": 1,
+            "valor_total": 13000.0,
+            "percentual_sobre_carteira": 0.39
+        },
+        "Kappa Distribuidora": {
+            "quantidade": 2,
+            "valor_total": 27800.0,
+            "percentual_sobre_carteira": 0.83
+        },
+        "Lambda Importações": {
+            "quantidade": 2,
+            "valor_total": 76000.0,
+            "percentual_sobre_carteira": 2.27
+        },
+        "Mu Tecnologia": {
+            "quantidade": 2,
+            "valor_total": 11500.0,
+            "percentual_sobre_carteira": 0.34
+        },
+        "Nu Consultoria": {
+            "quantidade": 2,
+            "valor_total": 23500.0,
+            "percentual_sobre_carteira": 0.7
+        },
+        "Xi Engenharia": {
+            "quantidade": 2,
+            "valor_total": 74000.0,
+            "percentual_sobre_carteira": 2.21
+        },
+        "Omicron Saúde": {
+            "quantidade": 2,
+            "valor_total": 13900.0,
+            "percentual_sobre_carteira": 0.41
+        },
+        "Pi Alimentos": {
+            "quantidade": 2,
+            "valor_total": 40800.0,
+            "percentual_sobre_carteira": 1.22
+        },
+        "Rho Varejo": {
+            "quantidade": 2,
+            "valor_total": 16700.0,
+            "percentual_sobre_carteira": 0.5
+        },
+        "Sigma Construções": {
+            "quantidade": 2,
+            "valor_total": 37200.0,
+            "percentual_sobre_carteira": 1.11
+        },
+        "Tau Mineração": {
+            "quantidade": 2,
+            "valor_total": 56500.0,
+            "percentual_sobre_carteira": 1.69
+        },
+        "Upsilon Energia": {
+            "quantidade": 2,
+            "valor_total": 31100.0,
+            "percentual_sobre_carteira": 0.93
+        },
+        "Phi Transportes": {
+            "quantidade": 2,
+            "valor_total": 23300.0,
+            "percentual_sobre_carteira": 0.7
+        },
+        "Chi Agronegócio": {
+            "quantidade": 2,
+            "valor_total": 51500.0,
+            "percentual_sobre_carteira": 1.54
+        },
+        "Psi Farmacêutica": {
+            "quantidade": 2,
+            "valor_total": 7200.0,
+            "percentual_sobre_carteira": 0.21
+        },
+        "Omega Financeira": {
+            "quantidade": 2,
+            "valor_total": 96000.0,
+            "percentual_sobre_carteira": 2.87
+        },
+        "Alpha Prime": {
+            "quantidade": 2,
+            "valor_total": 62000.0,
+            "percentual_sobre_carteira": 1.85
+        },
+        "Beta Secundária": {
+            "quantidade": 2,
+            "valor_total": 39500.0,
+            "percentual_sobre_carteira": 1.18
+        },
+        "Gama Terciária": {
+            "quantidade": 2,
+            "valor_total": 9500.0,
+            "percentual_sobre_carteira": 0.28
+        },
+        "Delta Quaternária": {
+            "quantidade": 2,
+            "valor_total": 27200.0,
+            "percentual_sobre_carteira": 0.81
+        },
+        "Épsilon Quinta": {
+            "quantidade": 2,
+            "valor_total": 19100.0,
+            "percentual_sobre_carteira": 0.57
+        },
+        "Zeta Sexta": {
+            "quantidade": 2,
+            "valor_total": 13400.0,
+            "percentual_sobre_carteira": 0.4
+        },
+        "Eta Sétima": {
+            "quantidade": 2,
+            "valor_total": 30800.0,
+            "percentual_sobre_carteira": 0.92
+        },
+        "Theta Oitava": {
+            "quantidade": 2,
+            "valor_total": 43500.0,
+            "percentual_sobre_carteira": 1.3
+        },
+        "Iota Nona": {
+            "quantidade": 2,
+            "valor_total": 24400.0,
+            "percentual_sobre_carteira": 0.73
+        },
+        "Kappa Décima": {
+            "quantidade": 2,
+            "valor_total": 35300.0,
+            "percentual_sobre_carteira": 1.05
+        },
+        "Lambda Décima Primeira": {
+            "quantidade": 2,
+            "valor_total": 19300.0,
+            "percentual_sobre_carteira": 0.58
+        },
+        "Mu Décima Segunda": {
+            "quantidade": 2,
+            "valor_total": 11900.0,
+            "percentual_sobre_carteira": 0.36
+        },
+        "Nu Décima Terceira": {
+            "quantidade": 2,
+            "valor_total": 63500.0,
+            "percentual_sobre_carteira": 1.9
+        },
+        "Xi Décima Quarta": {
+            "quantidade": 2,
+            "valor_total": 15600.0,
+            "percentual_sobre_carteira": 0.47
+        },
+        "Omicron Décima Quinta": {
+            "quantidade": 2,
+            "valor_total": 48000.0,
+            "percentual_sobre_carteira": 1.43
+        },
+        "Pi Décima Sexta": {
+            "quantidade": 2,
+            "valor_total": 33100.0,
+            "percentual_sobre_carteira": 0.99
+        },
+        "Rho Décima Sétima": {
+            "quantidade": 2,
+            "valor_total": 25000.0,
+            "percentual_sobre_carteira": 0.75
+        },
+        "Sigma Décima Oitava": {
+            "quantidade": 2,
+            "valor_total": 57000.0,
+            "percentual_sobre_carteira": 1.7
+        },
+        "Tau Décima Nona": {
+            "quantidade": 2,
+            "valor_total": 14000.0,
+            "percentual_sobre_carteira": 0.42
+        },
+        "Upsilon Vigésima": {
+            "quantidade": 2,
+            "valor_total": 37200.0,
+            "percentual_sobre_carteira": 1.11
+        },
+        "Phi Vigésima Primeira": {
+            "quantidade": 2,
+            "valor_total": 45500.0,
+            "percentual_sobre_carteira": 1.36
+        },
+        "Chi Vigésima Segunda": {
+            "quantidade": 2,
+            "valor_total": 29400.0,
+            "percentual_sobre_carteira": 0.88
+        },
+        "Psi Vigésima Terceira": {
+            "quantidade": 2,
+            "valor_total": 21600.0,
+            "percentual_sobre_carteira": 0.64
+        },
+        "Omega Vigésima Quarta": {
+            "quantidade": 2,
+            "valor_total": 52700.0,
+            "percentual_sobre_carteira": 1.57
+        },
+        "Alpha Vigésima Quinta": {
+            "quantidade": 2,
+            "valor_total": 16300.0,
+            "percentual_sobre_carteira": 0.49
+        },
+        "Beta Vigésima Sexta": {
+            "quantidade": 2,
+            "valor_total": 36300.0,
+            "percentual_sobre_carteira": 1.08
+        },
+        "Gama Vigésima Sétima": {
+            "quantidade": 2,
+            "valor_total": 23500.0,
+            "percentual_sobre_carteira": 0.7
+        },
+        "Delta Vigésima Oitava": {
+            "quantidade": 2,
+            "valor_total": 60500.0,
+            "percentual_sobre_carteira": 1.81
+        },
+        "Épsilon Vigésima Nona": {
+            "quantidade": 2,
+            "valor_total": 11700.0,
+            "percentual_sobre_carteira": 0.35
+        },
+        "Zeta Trigésima": {
+            "quantidade": 2,
+            "valor_total": 42500.0,
+            "percentual_sobre_carteira": 1.27
+        },
+        "Eta Trigésima Primeira": {
+            "quantidade": 2,
+            "valor_total": 31200.0,
+            "percentual_sobre_carteira": 0.93
+        },
+        "Theta Trigésima Segunda": {
+            "quantidade": 2,
+            "valor_total": 18300.0,
+            "percentual_sobre_carteira": 0.55
+        },
+        "Iota Trigésima Terceira": {
+            "quantidade": 2,
+            "valor_total": 49200.0,
+            "percentual_sobre_carteira": 1.47
+        },
+        "Kappa Trigésima Quarta": {
+            "quantidade": 2,
+            "valor_total": 13000.0,
+            "percentual_sobre_carteira": 0.39
+        },
+        "Lambda Trigésima Quinta": {
+            "quantidade": 2,
+            "valor_total": 65500.0,
+            "percentual_sobre_carteira": 1.96
+        },
+        "Mu Trigésima Sexta": {
+            "quantidade": 2,
+            "valor_total": 16700.0,
+            "percentual_sobre_carteira": 0.5
+        },
+        "Nu Trigésima Sétima": {
+            "quantidade": 2,
+            "valor_total": 39300.0,
+            "percentual_sobre_carteira": 1.17
+        },
+        "Xi Trigésima Oitava": {
+            "quantidade": 2,
+            "valor_total": 26200.0,
+            "percentual_sobre_carteira": 0.78
+        },
+        "Omicron Trigésima Nona": {
+            "quantidade": 2,
+            "valor_total": 45800.0,
+            "percentual_sobre_carteira": 1.37
+        },
+        "Pi Quadragésima": {
+            "quantidade": 2,
+            "valor_total": 11100.0,
+            "percentual_sobre_carteira": 0.33
+        },
+        "Rho Quadragésima Primeira": {
+            "quantidade": 2,
+            "valor_total": 57800.0,
+            "percentual_sobre_carteira": 1.73
+        },
+        "Sigma Quadragésima Segunda": {
+            "quantidade": 2,
+            "valor_total": 33900.0,
+            "percentual_sobre_carteira": 1.01
+        },
+        "Tau Quadragésima Terceira": {
+            "quantidade": 2,
+            "valor_total": 19600.0,
+            "percentual_sobre_carteira": 0.59
+        },
+        "Upsilon Quadragésima Quarta": {
+            "quantidade": 2,
+            "valor_total": 51000.0,
+            "percentual_sobre_carteira": 1.52
+        },
+        "Phi Quadragésima Quinta": {
+            "quantidade": 2,
+            "valor_total": 15500.0,
+            "percentual_sobre_carteira": 0.46
+        },
+        "Chi Quadragésima Sexta": {
+            "quantidade": 2,
+            "valor_total": 35700.0,
+            "percentual_sobre_carteira": 1.07
+        },
+        "Psi Quadragésima Sétima": {
+            "quantidade": 2,
+            "valor_total": 24300.0,
+            "percentual_sobre_carteira": 0.73
+        },
+        "Omega Quadragésima Oitava": {
+            "quantidade": 2,
+            "valor_total": 59200.0,
+            "percentual_sobre_carteira": 1.77
+        },
+        "Alpha Quadragésima Nona": {
+            "quantidade": 2,
+            "valor_total": 13300.0,
+            "percentual_sobre_carteira": 0.4
+        },
+        "Beta Quinquagésima": {
+            "quantidade": 2,
+            "valor_total": 44000.0,
+            "percentual_sobre_carteira": 1.31
+        },
+        "Gama Quinquagésima Primeira": {
+            "quantidade": 2,
+            "valor_total": 29800.0,
+            "percentual_sobre_carteira": 0.89
+        },
+        "Delta Quinquagésima Segunda": {
+            "quantidade": 2,
+            "valor_total": 18000.0,
+            "percentual_sobre_carteira": 0.54
+        },
+        "Épsilon Quinquagésima Terceira": {
+            "quantidade": 2,
+            "valor_total": 53700.0,
+            "percentual_sobre_carteira": 1.6
+        },
+        "Zeta Quinquagésima Quarta": {
+            "quantidade": 2,
+            "valor_total": 12100.0,
+            "percentual_sobre_carteira": 0.36
+        },
+        "Eta Quinquagésima Quinta": {
+            "quantidade": 2,
+            "valor_total": 63200.0,
+            "percentual_sobre_carteira": 1.89
+        },
+        "Theta Quinquagésima Sexta": {
+            "quantidade": 2,
+            "valor_total": 17400.0,
+            "percentual_sobre_carteira": 0.52
+        },
+        "Iota Quinquagésima Sétima": {
+            "quantidade": 2,
+            "valor_total": 40000.0,
+            "percentual_sobre_carteira": 1.19
+        },
+        "Kappa Quinquagésima Oitava": {
+            "quantidade": 2,
+            "valor_total": 26900.0,
+            "percentual_sobre_carteira": 0.8
+        },
+        "Lambda Quinquagésima Nona": {
+            "quantidade": 2,
+            "valor_total": 46700.0,
+            "percentual_sobre_carteira": 1.39
+        },
+        "Mu Sexagésima": {
+            "quantidade": 2,
+            "valor_total": 11500.0,
+            "percentual_sobre_carteira": 0.34
+        },
+        "Nu Sexagésima Primeira": {
+            "quantidade": 2,
+            "valor_total": 59500.0,
+            "percentual_sobre_carteira": 1.78
+        },
+        "Xi Sexagésima Segunda": {
+            "quantidade": 2,
+            "valor_total": 34600.0,
+            "percentual_sobre_carteira": 1.03
+        },
+        "Omicron Sexagésima Terceira": {
+            "quantidade": 2,
+            "valor_total": 20200.0,
+            "percentual_sobre_carteira": 0.6
+        },
+        "Pi Sexagésima Quarta": {
+            "quantidade": 2,
+            "valor_total": 52300.0,
+            "percentual_sobre_carteira": 1.56
+        },
+        "Rho Sexagésima Quinta": {
+            "quantidade": 2,
+            "valor_total": 16100.0,
+            "percentual_sobre_carteira": 0.48
+        },
+        "Sigma Sexagésima Sexta": {
+            "quantidade": 2,
+            "valor_total": 37100.0,
+            "percentual_sobre_carteira": 1.11
+        },
+        "Tau Sexagésima Sétima": {
+            "quantidade": 2,
+            "valor_total": 25100.0,
+            "percentual_sobre_carteira": 0.75
+        },
+        "Upsilon Sexagésima Oitava": {
+            "quantidade": 2,
+            "valor_total": 60500.0,
+            "percentual_sobre_carteira": 1.81
+        },
+        "Phi Sexagésima Nona": {
+            "quantidade": 2,
+            "valor_total": 13700.0,
+            "percentual_sobre_carteira": 0.41
+        },
+        "Chi Septuagésima": {
+            "quantidade": 2,
+            "valor_total": 45400.0,
+            "percentual_sobre_carteira": 1.36
+        },
+        "Psi Septuagésima Primeira": {
+            "quantidade": 2,
+            "valor_total": 30500.0,
+            "percentual_sobre_carteira": 0.91
+        },
+        "Omega Septuagésima Segunda": {
+            "quantidade": 2,
+            "valor_total": 18700.0,
+            "percentual_sobre_carteira": 0.56
+        },
+        "Alpha Septuagésima Terceira": {
+            "quantidade": 2,
+            "valor_total": 55000.0,
+            "percentual_sobre_carteira": 1.64
+        },
+        "Beta Septuagésima Quarta": {
+            "quantidade": 2,
+            "valor_total": 12500.0,
+            "percentual_sobre_carteira": 0.37
+        },
+        "Gama Septuagésima Quinta": {
+            "quantidade": 2,
+            "valor_total": 64700.0,
+            "percentual_sobre_carteira": 1.93
+        },
+        "Delta Septuagésima Sexta": {
+            "quantidade": 2,
+            "valor_total": 18100.0,
+            "percentual_sobre_carteira": 0.54
+        }
+    },
+    "alertas": [
+        "Cabeçalho fora do lugar removido.",
+        "Registros duplicados removidos: ['6']",
+        "Registros removidos por valor_nominal vazio: ['18']",
+        "Documentos inválidos encontrados em 184 registro(s).",
+        "Foram encontrados 13 registro(s) com inconsistência lógica.",
+        "Total de documentos inválidos sinalizados: 184.",
+        "Total de registros com inconsistência lógica: 13."
+    ]
+}
